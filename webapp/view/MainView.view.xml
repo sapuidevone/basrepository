@@ -9,8 +9,9 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
                     <content>
-                    <Text text="Hola desde BAS"></Text>
-                    <Text text="Cambio en Vista"></Text>
+                    <Panel headerText="Slection Screen">
+                    <Input id="inputTest"></Input>
+                    </Panel>
 					</content>
 				</Page>
 			</pages>
